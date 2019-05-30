@@ -1,2 +1,0 @@
-# GiregL.github.io
-EPortfolio
